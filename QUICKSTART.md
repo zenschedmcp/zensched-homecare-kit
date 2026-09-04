@@ -73,7 +73,7 @@ Behind the scenes the AI inserts the client (care plan, diagnoses, meds, allergy
 
 > Invite Maria Lopez, maria@example.com, CNA, $19.50 an hour. She takes Mr. Alvarez.
 
-Maria gets an email ($0.25), installs the app ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS TestFlight](https://testflight.apple.com/join/Wp51m5Yq)), and activates. Give her the care plan and door code yourself; the AI will not put them in ZenSched.
+Maria gets an email ($0.25), installs the app ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS TestFlight](https://apps.apple.com/us/app/zensched/id6800081657)), and activates. Give her the care plan and door code yourself; the AI will not put them in ZenSched.
 
 ## 8. Schedule the week
 
