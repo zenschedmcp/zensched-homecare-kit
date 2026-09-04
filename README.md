@@ -174,7 +174,7 @@ See `QUICKSTART.md` for the first-week walkthrough and `example-workflow.md` for
 ## Mobile app for caregivers
 
 - **Android:** [Google Play](https://play.google.com/store/apps/details?id=com.zensched.app)
-- **iOS:** [TestFlight](https://testflight.apple.com/join/Wp51m5Yq)
+- **iOS:** [App Store](https://apps.apple.com/us/app/zensched/id6800081657)
 
 When you invite a caregiver, they get an email, install the app, and can immediately see their visits, check in and out with GPS verification, and fill in the Visit Record. On the phone the client-or-family signature is the last step and submits the form; if the client cannot sign, the caregiver signs and notes it.
 
